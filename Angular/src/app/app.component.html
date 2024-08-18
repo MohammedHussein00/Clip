@@ -1,0 +1,5 @@
+  <!-- Header -->
+<app-nav></app-nav>
+<!-- Auth Modal -->
+<app-auth *ngIf="!(UserService.userwithdelay$|async)" ></app-auth>
+<router-outlet></router-outlet>
