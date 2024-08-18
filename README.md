@@ -2,7 +2,8 @@
 ## Overview
 Application Name: Clip
 
-### Description: Clip is a web application that allows users to share their best gaming moments by uploading videos. It uses Angular for the frontend and ASP.NET for the backend API. Users can create, view, and manage their video content.
+### Description:
+Clip is a web application that allows users to share their best gaming moments by uploading videos. It uses Angular for the frontend and ASP.NET for the backend API. Users can create, view, and manage their video content.
 
 ### Functional Requirements
 **User Management**:
@@ -37,6 +38,7 @@ The UI should be intuitive and responsive
 
 ### Entities
 `User` : Represents users authenticated via Microsoft Identity.
+
 `Video` :Represents the videos uploaded by users.
 
 ### Relationships
