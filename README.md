@@ -44,6 +44,3 @@ The UI should be intuitive and responsive
 ### Relationships
 A User can upload multiple Videos.
 Each Video is associated with one User.
-
-UserId (Foreign Key, String, References User table)
-created (DateTime, Date and time when the video was created)
