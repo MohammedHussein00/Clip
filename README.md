@@ -37,7 +37,7 @@ The UI should be intuitive and responsive
 ## Entity-Relationship Diagram (ERD)
 
 ### Entities
-`User` : Represents users authenticated via Microsoft Identity.
+`User` : Represents users authenticated via Microsoft Identity.  
 
 `Video` :Represents the videos uploaded by users.
 
